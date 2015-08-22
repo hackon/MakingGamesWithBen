@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassesInSeperateFiles", "C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToe", "TicTacToe\TicTacToe.vcxproj", "{EAA3578E-5F55-493C-8C1F-1F635F9218C4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToeSolution", "TicTacToeSolution\TicTacToeSolution.vcxproj", "{1124B86C-8DB9-4183-A669-6C6B1B0E33B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{EAA3578E-5F55-493C-8C1F-1F635F9218C4}.Release|x64.Build.0 = Release|x64
 		{EAA3578E-5F55-493C-8C1F-1F635F9218C4}.Release|x86.ActiveCfg = Release|Win32
 		{EAA3578E-5F55-493C-8C1F-1F635F9218C4}.Release|x86.Build.0 = Release|Win32
+		{1124B86C-8DB9-4183-A669-6C6B1B0E33B5}.Debug|x64.ActiveCfg = Debug|x64
+		{1124B86C-8DB9-4183-A669-6C6B1B0E33B5}.Debug|x64.Build.0 = Debug|x64
+		{1124B86C-8DB9-4183-A669-6C6B1B0E33B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{1124B86C-8DB9-4183-A669-6C6B1B0E33B5}.Debug|x86.Build.0 = Debug|Win32
+		{1124B86C-8DB9-4183-A669-6C6B1B0E33B5}.Release|x64.ActiveCfg = Release|x64
+		{1124B86C-8DB9-4183-A669-6C6B1B0E33B5}.Release|x64.Build.0 = Release|x64
+		{1124B86C-8DB9-4183-A669-6C6B1B0E33B5}.Release|x86.ActiveCfg = Release|Win32
+		{1124B86C-8DB9-4183-A669-6C6B1B0E33B5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
